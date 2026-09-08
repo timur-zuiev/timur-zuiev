@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Tymur 👋
 
-<!--
-**timur-zuiev/timur-zuiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer based in Austria.
 
-Here are some ideas to get you started:
+I work mainly with **Java, Spring Boot, JavaScript, SQL and PostgreSQL** and enjoy building practical applications while continuously improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- Java
+- Spring Boot
+- JavaScript
+- SQL / PostgreSQL
+- HTML / CSS
+- Git
+- REST APIs
+
+## 🚀 Featured Projects
+
+### Smart Finance Tracker
+Full-stack personal finance management application built with Spring Boot, PostgreSQL and JavaScript.
+
+### CSV Person Management
+Java application for managing person and address data stored in CSV files.
+
+## 🎯 Currently
+
+Looking for **Junior Developer, Trainee and Internship opportunities in Austria**.
+
+📍 Steyr, Austria
