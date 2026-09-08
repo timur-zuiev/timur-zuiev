@@ -16,10 +16,10 @@ I work mainly with **Java, Spring Boot, JavaScript, SQL and PostgreSQL** and enj
 
 ## 🚀 Featured Projects
 
-### Smart Finance Tracker
+### [Smart Finance Tracker](https://github.com/timur-zuiev/smart-finance-tracker)
 Full-stack personal finance management application built with Spring Boot, PostgreSQL and JavaScript.
 
-### CSV Person Management
+### [CSV Person Management](https://github.com/timur-zuiev/csv-person-management)
 Java application for managing person and address data stored in CSV files.
 
 ## 🎯 Currently
